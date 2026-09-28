@@ -10,7 +10,7 @@ Across six teacher–student settings on ALFWorld, ScienceWorld, and WebShop (1.
 
 Hanyang Wang¹, Zeyuan Liu², Zhengyu Chen², Jingqing Ruan², Chaoxu Pang², Zhongda Su², Wulin Xie³, Zhizhao Zeng², Ke Zeng², Tianxiang Zhao⁴
 
-¹University of Chicago ²Meituan ³University of the Chinese Academy of Sciences ⁴The Hong Kong University of Science and Technology (Guangzhou)
+¹University of Chicago ²Meituan LongCat Interaction Team ³University of the Chinese Academy of Sciences ⁴The Hong Kong University of Science and Technology (Guangzhou)
 
 ## Citation
 

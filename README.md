@@ -8,7 +8,7 @@ Across six teacher–student settings on ALFWorld, ScienceWorld, and WebShop (1.
 
 ## Authors
 
-Hanyang Wang¹, Zeyuan Liu², Zhengyu Chen², Jingqing Ruan², Chaoxu Pang², Zhongda Su², Wulin Xie³, Zhizhao Zeng, Ke Zeng², Tianxiang Zhao⁴
+Hanyang Wang¹, Zeyuan Liu², Zhengyu Chen², Jingqing Ruan², Chaoxu Pang², Zhongda Su², Wulin Xie³, Zhizhao Zeng², Ke Zeng², Tianxiang Zhao⁴
 
 ¹University of Chicago ²Meituan ³University of the Chinese Academy of Sciences ⁴The Hong Kong University of Science and Technology (Guangzhou)
 
